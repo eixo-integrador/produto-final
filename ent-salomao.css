@@ -1,0 +1,17 @@
+.texto{
+    margin-top: 4%;
+    line-height: 25px;
+}
+
+.texto li{
+    margin-left: 15px;
+}
+
+.video{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+
+.video img{
+    width: 30%;
+}
