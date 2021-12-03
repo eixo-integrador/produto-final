@@ -1,8 +1,14 @@
 
 
 .texto{
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
     margin-top: 4%;
     line-height: 25px;
+    line-height: 30px;
+    gap: 30px;
+    max-width: 80%;
 }
 
 .texto li{
@@ -19,4 +25,8 @@
 
 .video .link img{
     width: 100%;
+}
+
+.link-ent{
+    color: rgb(194, 141, 230);
 }
