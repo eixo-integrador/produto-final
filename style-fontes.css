@@ -1,4 +1,25 @@
+body {
+    height: 110vh;
+}
+
+main {
+    height: 100vh;
+}
+
 .texto{
     margin-top: 5%;
     max-width: 80%;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+}
+
+
+.link-ent{
+    margin-left: 10%;
+    text-decoration: underline;
+    color: rgb(194, 141, 230);
 }

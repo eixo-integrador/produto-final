@@ -1,0 +1,24 @@
+body {
+    height: 180vh;
+}
+
+main {
+    height: 170vh;
+}
+
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2rem;
+    margin-top: 4%;
+    line-height: 25px;
+    line-height: 30px;
+    gap: 30px;
+    max-width: 80%;
+}
+
+
+footer{
+    width: 97.6vw;
+}
